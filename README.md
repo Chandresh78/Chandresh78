@@ -20,10 +20,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding India’s Differentiated Treatment of Iran and Pakistan](https://medium.com/@chandresh00rajpoot/understanding-indias-differentiated-treatment-of-iran-and-pakistan-1bbd7196b479?source=rss-4c8f3d2c2b6f------2)
 - [Driving into the Future: India’s Next-Gen Highway Tolling System](https://medium.com/@chandresh00rajpoot/driving-into-the-future-indias-next-gen-highway-tolling-system-696bb2160a77?source=rss-4c8f3d2c2b6f------2)
 - [The BJP’s Record of Governance: A Comprehensive Review of Developments from 2014 to 2024](https://medium.com/@chandresh00rajpoot/the-bjps-record-of-governance-a-comprehensive-review-of-developments-from-2014-to-2024-2be4d83f6c5a?source=rss-4c8f3d2c2b6f------2)
 - [Unraveling the Tapestry of Cinematic Influence: From Ideals to Realities and Beyond](https://medium.com/@chandresh00rajpoot/unraveling-the-tapestry-of-cinematic-influence-from-ideals-to-realities-and-beyond-389057210e80?source=rss-4c8f3d2c2b6f------2)
-- [In the heart of Tamil Nadu, a silent revolution is taking place, one step at a time.](https://medium.com/@chandresh00rajpoot/in-the-heart-of-tamil-nadu-a-silent-revolution-is-taking-place-one-step-at-a-time-701c9ae8af2c?source=rss-4c8f3d2c2b6f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
